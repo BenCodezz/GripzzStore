@@ -14,7 +14,7 @@ const FeaturedProducts = () => {
             
           </span>
           <p className="text-2xl-regular text-gray-900 max-w-lg mb-4">
-            Our newest styles are here to help you look your best.
+          Customize your scooter and enhance your performance with our griptape.
           </p>
           <UnderlineLink href="/store"> See Griptape</UnderlineLink>
         </div>
