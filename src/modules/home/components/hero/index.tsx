@@ -11,7 +11,7 @@ const Hero = () => {
         <p className="text-base-regular max-w-[32rem] mb-6 drop-shadow-md shadow-black">
           Uprade your Ride ASAP!
         </p>
-        <UnderlineLink href="/store">Explore products</UnderlineLink>
+        <UnderlineLink href="/store"> See Griptape</UnderlineLink>
       </div>
       <Image
         src="/hero.jpg"
