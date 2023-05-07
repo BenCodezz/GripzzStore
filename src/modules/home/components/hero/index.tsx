@@ -8,6 +8,8 @@ const Hero = () => {
         <h1 className="text-Summer2xl-semi mb-4 drop-shadow-md shadow-black">
            Wellcome to Gripzz
         </h1>
+   
+        
         <p className="text-base-regular max-w-[32rem] mb-6 drop-shadow-md shadow-black">
           Uprade your Ride ASAP!
         </p>
